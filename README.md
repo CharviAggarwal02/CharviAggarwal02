@@ -17,6 +17,7 @@
 
 ## 🔧 Tech Stack  
 **Languages:** Python, JavaScript, C/C++, HTML/CSS 
+
 **Frameworks:** FastAPI, Flask, REST APIs  
 **ML/Data:** Scikit-learn, Pandas, NumPy, OpenCV, NLP  
 **Databases:** MySQL, PostgreSQL, MongoDB  
@@ -35,7 +36,7 @@
 
 ## 🚀 Projects  
 - **[Face Recognition System](#)** – Real-time recognition (90%+ accuracy) using OpenCV.  
-- **[InfoMate Chatbot]** – College FAQ chatbot (FastAPI + NLP).  
+- **[InfoMate Chatbot](#)** – College FAQ chatbot (FastAPI + NLP).  
 - **[Sankalp Blood Bank Management](#)** – Automated donor matching & inventory workflows.  
 
 ---
