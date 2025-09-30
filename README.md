@@ -16,7 +16,7 @@
 ---
 
 ## 🔧 Tech Stack  
-**Languages:** Python, JavaScript, PHP, HTML/CSS ,C/C++
+**Languages:** Python, JavaScript, C/C++, HTML/CSS 
 **Frameworks:** FastAPI, Flask, REST APIs  
 **ML/Data:** Scikit-learn, Pandas, NumPy, OpenCV, NLP  
 **Databases:** MySQL, PostgreSQL, MongoDB  
