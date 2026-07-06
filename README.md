@@ -177,7 +177,7 @@ A smart blood bank management platform automating donor matching and inventory m
 
 💼 LinkedIn: https://www.linkedin.com/in/charvi-aggarwal03/
 
-🌐 Portfolio: https://charviaggarwal02.github.io/CHARVI-portfolio/
+🌐 Portfolio: https://charvi-portfolio-v2.vercel.app/
 
 💻 GitHub: https://github.com/CharviAggarwal02
 
