@@ -8,8 +8,8 @@
 
 ## 🌟 About Me
 
-* 🎓 B.Tech in Computer Science (Cyber Security Honors), RKGIT Ghaziabad
-* 📊 CGPA: **8.92/10**
+* 🎓 B.Tech in Computer Science (Cyber Security Honors), RKGITM Ghaziabad
+* 📊 CGPA: **8.98/10**
 * 💼 Currently working as **Software Engineer Trainee (AI/ML) at Xcelore**
 * 🧠 Strong expertise in **Python, FastAPI, Backend Development, REST APIs, and AI/ML**
 * ☁️ Experienced with **SQL Databases, Docker, Git, Cloud Deployment, and Automation**
