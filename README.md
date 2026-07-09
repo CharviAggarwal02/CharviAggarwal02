@@ -22,6 +22,10 @@
 
 </p>
 
+<p>
+  🟢 Available for Freelance Python Backend & AI Projects
+</p>
+
 </div>
 
 ---
