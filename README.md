@@ -1,190 +1,208 @@
-# 👩‍💻 Charvi Aggarwal
+<div align="center">
 
-### Software Engineer Trainee (AI/ML) | Python Developer | FastAPI Developer | Backend Engineer
+# Hi 👋, I'm Charvi Aggarwal
 
-🚀 Passionate about building scalable backend systems, AI-powered applications, and production-ready APIs. I enjoy solving complex problems, developing intelligent solutions, and contributing to impactful software products that combine AI, automation, and modern web technologies.
+### Software Engineer @ Xcelore | Python Backend Developer | FastAPI | AI Integration Specialist
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;FastAPI+Developer;AI+%26+Machine+Learning+Enthusiast;Open+to+Freelance+Projects" />
+
+<p>
+
+<a href="https://charvi-portfolio-v2.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/charvi-aggarwal03/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:charviaggarwal20904@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+</div>
 
 ---
 
-## 🌟 About Me
+# 🚀 About Me
 
-* 🎓 B.Tech in Computer Science (Cyber Security Honors), RKGITM Ghaziabad
-* 📊 CGPA: **8.98/10**
-* 💼 Currently working as **Software Engineer Trainee (AI/ML) at Xcelore**
-* 🧠 Strong expertise in **Python, FastAPI, Backend Development, REST APIs, and AI/ML**
-* ☁️ Experienced with **SQL Databases, Docker, Git, Cloud Deployment, and Automation**
-* 🤝 Open to **Software Engineering, Backend Development, Python Development, and AI/ML opportunities**
+💼 Software Engineer @ **Xcelore**
+
+🎓 B.Tech (Computer Science – Cyber Security Honors)
+
+🐍 Python Backend Developer specializing in **FastAPI**, **REST APIs**, and **AI-powered applications**
+
+🤖 Passionate about AI, Machine Learning, Backend Engineering, and Automation
+
+🌍 Open to **Freelance**, **Backend**, and **AI Engineering** opportunities
 
 ---
 
-## 🔧 Tech Stack
+# 💻 Tech Stack
 
 ### Languages
 
-Python • JavaScript • PHP • SQL • C/C++ • HTML • CSS
-
-### Backend & APIs
-
-FastAPI • Flask • Django • REST APIs
-
-### AI/ML & Data Science
-
-Scikit-learn • Pandas • NumPy • OpenCV • NLP • Machine Learning
-
-### Databases
-
-MySQL • PostgreSQL • MongoDB
-
-### Tools & Platforms
-
-Git • GitHub • Docker • Linux • Power BI • Networking
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)
 
 ---
 
-## 💼 Experience
+### Backend
 
-### Software Engineer Trainee (AI/ML) | Xcelore
-
-📅 Apr 2026 – Present
-
-* Developing AI/ML-powered backend systems using Python and FastAPI.
-* Building scalable REST APIs and intelligent automation workflows.
-* Working on production-grade applications, debugging, and performance optimization.
-* Collaborating on data processing and AI-driven solutions.
-
-**Tech Stack:** Python, FastAPI, Machine Learning, SQL, REST APIs, Git
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django)
 
 ---
 
-### AI Intern | Microsoft & SAP
+### AI / ML
 
-📅 Jan 2025 – Mar 2025
+Python
 
-* Developed a FastAPI-powered healthcare chatbot backend.
-* Designed scalable APIs and integrated databases efficiently.
-* Implemented NLP-based query processing and backend validation.
+Scikit-learn
 
-**Tech Stack:** Python, FastAPI, NLP, SQL
+OpenCV
 
----
+Pandas
 
-## 🚀 Featured Projects
+NumPy
 
-### 🔹 AI-Powered Crowdfunding Platform
+Machine Learning
 
-📅 Aug 2025 – Apr 2026
-
-A full-stack crowdfunding platform connecting investors and entrepreneurs through intelligent project analysis.
-
-**Key Features**
-
-* User Authentication & Authorization
-* Funding and Campaign Management
-* Investor-Entrepreneur Interaction
-* Real-Time Project Handling
-* Scalable Backend APIs
-
-**Tech Stack:** Python, FastAPI, ReactJS, TypeScript, SQL
-
-🔗 Repository: *Add GitHub Link Here*
+NLP
 
 ---
 
-### 🔹 InfoMate – College FAQ Chatbot
+### Database
 
-An intelligent chatbot designed to answer college-related queries using NLP and backend APIs.
+MySQL
 
-**Features**
+PostgreSQL
 
-* College Information Assistance
-* Fast Response Handling
-* NLP-based Query Processing
-* API Integration
-
-**Tech Stack:** Python, FastAPI, NLP
-
-🔗 GitHub: https://github.com/mishrababhishek/chatbot
+MongoDB
 
 ---
 
-### 🔹 Face Recognition System
+### Tools
 
-Real-time face recognition system achieving over **90% accuracy** using computer vision techniques.
+Docker
 
-**Features**
+Git
 
-* Face Detection
-* Face Recognition
-* Real-Time Processing
-* Optimized Performance
+GitHub
 
-**Tech Stack:** Python, OpenCV, Computer Vision
+Linux
 
-🔗 Repository: *Add GitHub Link Here*
+Power BI
 
 ---
 
-### 🔹 Sankalp Blood Bank Management System
+# ⭐ Featured Projects
 
-A smart blood bank management platform automating donor matching and inventory management.
+## 🚀 UpFund – AI Crowdfunding Platform
 
-**Features**
+FastAPI + React platform connecting startups and investors.
 
-* Donor Registration
-* Blood Inventory Tracking
-* Matching System
-* Request Management
+**Tech:** Python • FastAPI • React • PostgreSQL
 
-**Tech Stack:** Python, Database Management, Web Technologies
-
-🔗 Repository: *Add GitHub Link Here*
+🔗 https://github.com/CharviAggarwal02/Crowdfunding_platform   
+🔗https://crowdfunding-platform-puce.vercel.app/
 
 ---
 
-## 🌍 Open Source Contributions
+## 🌾 KrishiSetu
 
-### Winter of Code Social (WOCS)
+AI-powered Smart Agriculture Platform developed for SIH.
 
-📅 Nov 2025 – Jan 2026
+**Tech:** React • Flask • Machine Learning
 
-* Contributed production-level enhancements to AI-powered web applications.
-* Improved Flask-based systems with robust error handling.
-* Collaborated through GitHub pull requests, code reviews, and issue tracking.
-
-**Tech Stack:** Flask, JavaScript, REST APIs, GitHub
+🔗https://github.com/CharviAggarwal02/ai-smart-agriculture-platform
+🔗 https://sih-krishisetu.vercel.app/
 
 ---
 
-## 📜 Certifications
+## 🎓 InfoMate
 
-🏅 Microsoft AI Fundamentals — Microsoft
+College Information Chatbot
 
-🏅 IBM Data Analytics — IBM
+**Tech:** FastAPI • NLP • Python
 
-🏅 Database Management System — Infosys Springboard
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CharviAggarwal02\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CharviAggarwal02\&layout=compact)
+🔗 https://github.com/CharviAggarwal02/chatbot-infomate
+🔗https://chatbot-infomate-3.onrender.com/
 
 ---
 
-## 📫 Connect With Me
+## 💼 JobJunction
 
-💼 LinkedIn: https://www.linkedin.com/in/charvi-aggarwal03/
+Role-based Recruitment Portal
 
-🌐 Portfolio: https://charvi-portfolio-v2.vercel.app/
+**Tech:** Flask • SQLAlchemy • Bootstrap
 
-💻 GitHub: https://github.com/CharviAggarwal02
-
-📧 Email: [charviaggarwal20904@gmail.com](mailto:charviaggarwal20904@gmail.com)
-
-📄 Resume: Add Resume Drive Link Here
+🔗 https://github.com/CharviAggarwal02/job-portal
+🔗https://job-portal-3n24.onrender.com/
 
 ---
 
-⭐ **"Code. Create. Collaborate. Learn."**
+# 💼 Experience
+
+### Software Engineer Trainee
+
+**Xcelore**
+
+Building AI-powered backend systems using Python and FastAPI.
+
+---
+
+### AI Intern
+
+**Microsoft & SAP**
+
+Developed FastAPI healthcare chatbot backend and NLP-based APIs.
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=CharviAggarwal02&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharviAggarwal02&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CharviAggarwal02&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌐 Let's Connect
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/charvi-aggarwal03/
+
+🌍 Portfolio
+
+https://charvi-portfolio-v2.vercel.app/
+
+📧 Email
+
+charviaggarwal20904@gmail.com
+
+---
+
+<div align="center">
+
+### 💜 Building scalable backend systems with Python, FastAPI & AI.
+
+⭐ If you like my work, feel free to connect!
+
+</div>
